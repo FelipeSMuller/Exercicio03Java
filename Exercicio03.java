@@ -28,7 +28,7 @@ public class Exercicio03 {
 		String media = formato.format(soma/decimais.length);
 		
 		JOptionPane.showMessageDialog(null,"A soma de todos os elementos do array é igual a : " + numeroFormatado);
-		JOptionPane.showMessageDialog(null,"Sua média é :  " + (media));
+		JOptionPane.showMessageDialog(null,"Sua média é :  " + media);
 
 	}
 
